@@ -1,10 +1,12 @@
 [
   {
     "name": "1.13.2",
-    "type": "release"
+    "type": "release",
+    "available": true
   },
   {
     "name": "1.12.2",
-    "type": "release"
+    "type": "release",
+    "available": true
   }
 ]
