@@ -2,13 +2,11 @@
   {
     "name": "Craftbukkit 1.13.2",
     "type": "release",
-    "downloadlink": "https://exemple.com/jars/spigot.jar",
     "available": true
   },
   {
     "name": "Craftbukkit 1.12.2",
     "type": "release",
-    "downloadlink": "https://exemple.com/jars/spigot.jar",
     "available": true
   }
 ]
