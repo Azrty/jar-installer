@@ -1,11 +1,11 @@
 [
   {
-    "name": "1.13.2",
+    "name": "Craftbukkit 1.13.2",
     "type": "release",
     "available": true
   },
   {
-    "name": "1.12.2",
+    "name": "Craftbukkit 1.12.2",
     "type": "release",
     "available": true
   }
