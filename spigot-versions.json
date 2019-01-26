@@ -8,5 +8,10 @@
     "name": "Spigot 1.12.2",
     "type": "release",
     "available": true
+  },
+  {
+    "name": "Spigot 1.11.2",
+    "type": "release",
+    "available": true
   }
 ]
