@@ -2,13 +2,13 @@
   {
     "name": "1.13.2",
     "type": "release",
-    "downloadlink": "https://exemple.com/jars/spigot.jar",
+    "downloadlink": "http://mcmirror.io/files/Spigot/Spigot-1.13.2-b0f4c22-20190202-0014.jar",
     "available": true
   },
   {
     "name": "1.12.2",
     "type": "release",
-    "downloadlink": "https://exemple.com/jars/spigot.jar",
+    "downloadlink": "http://mcmirror.io/files/Spigot/Spigot-1.12.2-642f6d2_fbe3046-20180620-0518.jar",
     "available": true
   },
   {
